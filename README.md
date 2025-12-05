@@ -1,6 +1,6 @@
 # Employee Management System
 
-## In this code I have used the concept of Classes and Objects to solve the problem. I have created a menu for the user which consists of 5 different features.
+ In this code I have used the concept of Classes and Objects to solve the problem. I have created a menu for the user which consists of 5 different features.
 1.	To add an employee
 2.	To view details of an employee
 3.	To remove an employee
